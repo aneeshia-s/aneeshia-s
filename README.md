@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aneeshia-s
 - 👀 I’m interested in Software  Automation Testing
-- 🌱 I’m currently learning Selenium and other QA Tools
 - 📫 you can reach me at aneeshia@gmail.com
 
 <!---
